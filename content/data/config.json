@@ -48,7 +48,7 @@
         ]
     },
     "footer": {
-        "logo": "images/neyeng.png",
+        "logo": "images/neyeng.svg",
         "logo_alt": "logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
