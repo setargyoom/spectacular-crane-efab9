@@ -23,7 +23,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: #D7F4FE
   - type: grid_section
     title: What's Great About App Land?
     subtitle: >-
