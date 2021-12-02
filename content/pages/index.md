@@ -16,7 +16,7 @@ sections:
       - label: Google Play
         url: /pricing
         style: secondary
-    image: images/ghost.png
+    image: images/bghost.png
     image_alt: image
     media_position: left
     media_width: fifty
