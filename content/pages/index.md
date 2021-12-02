@@ -16,8 +16,8 @@ sections:
       - label: Google Play
         url: /pricing
         style: secondary
-    image: images/hero.svg
-    image_alt: Hero section placeholder image
+    image: images/ghost.png
+    image_alt: image
     media_position: left
     media_width: fifty
     align: left
