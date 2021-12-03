@@ -108,8 +108,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-1.svg
-        image_alt: Feature 1 placeholder image
+        image: images/cr-2.svg
+        image_alt: image
         media_position: left
         media_width: fifty
       - title: Comprehensive Task List
@@ -126,8 +126,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-2.svg
-        image_alt: Feature 2 placeholder image
+        image: images/cr-1.svg
+        image_alt: image
         media_position: right
         media_width: fifty
     feature_padding_vert: large
@@ -140,16 +140,16 @@ sections:
           everyday!”
         subtitle: >-
           Alyvia Cope, Design at Company
-        image: images/person-1.png
-        image_alt: Person 1 photo
+        image: images/bg-1.svg
+        image_alt: image
         media_position: right
         media_width: thirty-three
       - title: >-
           “A very useful project management app. I use it every day.”
         subtitle: >-
           Travis Guidelines, Manager at Company
-        image: images/person-2.png
-        image_alt: Person 2 photo
+        image: images/bg-2.svg
+        image_alt: image
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
