@@ -78,8 +78,8 @@
                 "style": "link"
             },
             {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
+                "label": "Pencegahan Korosi",
+                "url": "/blog/category/pencegahan-korosi",
                 "style": "link"
             }
         ],
@@ -155,6 +155,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://neyeng.netlify.app",
+    "domain": "https://neyeng.vercel.app",
     "favicon": "/images/no name.jpg"
 }
