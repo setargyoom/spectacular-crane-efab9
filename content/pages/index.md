@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Lindungi barang-barang Anda dari berbagai jenis korosi
+    title: Lindungi barang Anda dari berbagai jenis korosi
     subtitle: >-
       Dapatkan informasi seputar korosi/karat pada situs ini!
     content: >-
@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Eksplor Sekarang
         url: /blog
-        style: secondary
+        style: primary
     image: images/bghost.png
     image_alt: image
     media_position: left
@@ -32,7 +32,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /thank-you
             style: link
             has_icon: true
             icon: arrow-right
@@ -50,7 +50,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /thank-you
             style: link
             has_icon: true
             icon: arrow-right
@@ -68,7 +68,7 @@ sections:
         content_align: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /thank-you
             style: link
             has_icon: true
             icon: arrow-right
@@ -95,7 +95,7 @@ sections:
           Zat-zat yang bersifat korosif umumnya terdapat lambang tersebut. Ketika kita akan menggunakan zat tersebut, usahakan selalu menggunakan alat pelindung yang sesuai intruksi. 
         actions:
           - label: Learn More
-            url: /pricing
+            url: /thank-you
             style: primary
             has_icon: true
             icon: arrow-right
@@ -108,10 +108,10 @@ sections:
         subtitle: >-
           Usahakan selalu memperhatikan intruksi!
         content: >-
-          Zat yang bersifat kotosif cukup berbahaya apabila mengenai suatu benda yang tidak tahan korosi. Selain itu juga berbahaya apabila mengenai kulit manusia secara langsung. Maka dari itu gunakanlah alat pelindung ketika berinteraksi dengan zat tersebut.
+          Zat yang bersifat korosif cukup berbahaya apabila mengenai suatu benda yang tidak tahan korosi. Selain itu juga berbahaya apabila mengenai kulit manusia secara langsung. Maka dari itu gunakanlah alat pelindung ketika berinteraksi dengan zat tersebut.
         actions:
-          - label: Take a look
-            url: /pricing
+          - label: Lern More
+            url: /thank-you
             style: secondary
             has_icon: true
             icon: arrow-right
@@ -126,7 +126,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Korosi merupakan masalah yang seringkali menghantui para pemilik benda-benda yang terbuat dari logam. Logam termasuk material yang sangat rentan terserang oleh berbagai jenis korosi.”
+          “Korosi merupakan masalah yang seringkali menghantui para pemilik benda yang terbuat dari logam. Logam termasuk material yang sangat rentan terserang oleh berbagai jenis korosi.”
         subtitle: >-
           Hantu Terbang, Pemilik benda logam yang terkena korosi
         image: images/bg-1.svg
@@ -134,7 +134,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: >-
-          “Ingat!!, Perlindungan terhadap benda-benda yang berbahan dasar logam terhadap korosi sangat penting dilakukan. Ada beragam cara yang dapat dilakukan untuk menanggulangi masalah korosi.”
+          “Ingat!!, Perlindungan terhadap benda yang berbahan dasar logam terhadap korosi sangat penting dilakukan. Ada beragam cara yang dapat dilakukan untuk menanggulangi masalah korosi.”
         subtitle: >-
           Hantu Senang, Sudah tahu mengatasi masalah korosi
         image: images/bg-2.svg
@@ -150,7 +150,7 @@ sections:
     actions:
       - label: Eksplor Sekarang
         url: /blog
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
