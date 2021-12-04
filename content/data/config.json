@@ -13,13 +13,13 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "About",
+                "url": "/about",
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Contact",
+                "url": "/contact",
                 "style": "link"
             },
             {
@@ -28,21 +28,21 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Disclaimer",
+                "url": "/disclaimer",
                 "style": "link"
             }
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "App Store",
-                "url": "/pricing",
+                "label": "Terima Kasih",
+                "url": "/thank-you",
                 "style": "primary"
             },
             {
-                "label": "Google Play",
-                "url": "/pricing",
+                "label": "Jalan Pintas",
+                "url": "/thank-you",
                 "style": "secondary"
             }
         ]
@@ -51,7 +51,7 @@
         "logo": "images/neyeng.svg",
         "logo_alt": "logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Sekilas",
         "primary_nav_links": [
             {
                 "label": "About",
@@ -59,8 +59,8 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Contact",
+                "url": "/contact",
                 "style": "link"
             }
         ],
