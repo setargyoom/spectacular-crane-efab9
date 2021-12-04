@@ -33,7 +33,6 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}
 
-               // Google Search Console 
                   <meta name="google-site-verification" content="1s_3X1-Raz1NpxRLlEjjD2GD7ILOxS6QISH-iqDMaW4" />
 
                 
