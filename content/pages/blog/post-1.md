@@ -48,7 +48,7 @@ Korosi adalah fenomena destruktif alami yang terjadi ketika beberapa logam terpa
 
 Agar korosi elektrokimia terjadi, tiga bahan harus ada: anoda, katoda, dan elektrolit. Anoda dan katoda biasanya dihubungkan melalui jalur listrik kontinu sementara keduanya direndam dalam elektrolit yang sama. Selama proses ini, anoda mengalami korosi, sedangkan katoda tetap tidak terpengaruh. 
 
-<img src="/images/post 1/proteksi katodik-1.png" alt="img"/>
+<img src="https://github.com/setargyoom/spectacular-crane-efab9/blob/163051872a1214533ea1faaee318f521295b6ccc/public/images/post%201/proteksi%20katodik-1.png" alt="img"/>
      
 Gambar Sebuah sel elektrokimia khas menunjukkan elektron mengalir dari anoda ke katoda melalui sambungan listrik. 
 
