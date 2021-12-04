@@ -110,7 +110,7 @@ sections:
         content: >-
           Zat yang bersifat korosif cukup berbahaya apabila mengenai suatu benda yang tidak tahan korosi. Selain itu juga berbahaya apabila mengenai kulit manusia secara langsung. Maka dari itu gunakanlah alat pelindung ketika berinteraksi dengan zat tersebut.
         actions:
-          - label: Lern More
+          - label: Learn More
             url: /thank-you
             style: secondary
             has_icon: true
