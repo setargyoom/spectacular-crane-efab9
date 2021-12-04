@@ -94,7 +94,8 @@ Dalam sistem proteksi katodik pasif, anoda korban dihubungkan langsung atau tida
 
 Jenis perlindungan ini umumnya digunakan dalam industri minyak dan gas untuk melindungi anggota baja struktural rig dan platform lepas pantai. Di sini, batang aluminium (atau logam lain yang sesuai) dipasang langsung pada bagian baja untuk berperan sebagai logam korban. Pemanas air baja, tangki, dan tiang pancang juga dilindungi secara katodik menggunakan metode serupa. 
 
-![images](/public/images/post 1/proteksi katodik-1.png "images")
+image: images/post 1/proteksi katodik.png
+image_alt: image
 
 Gambar skema pipa yang dilindungi oleh anoda korban menggunakan metode perlindungan katodik pasif. Perhatikan bagaimana tidak ada sumber daya eksternal yang terlibat.
 
