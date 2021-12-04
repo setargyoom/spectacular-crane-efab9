@@ -107,7 +107,7 @@ Untuk mengatasi hal ini, sumber daya eksternal digunakan untuk membantu dalam me
 
 Flange pipa yang menghubungkan biasanya terisolasi menggunakan isolasi kit untuk memisahkan pipa menjadi lebih kecil, bagian yang lebih mudah dikelola untuk tujuan perlindungan proteksi katodik arus terkesan. 
 
-![images](https://github.com/setargyoom/spectacular-crane-efab9/public/images/post 1/proteksi katodik-3.png)
+![images](/img/proteksi katodik-3.png)
 
 Gambar skema objek yang dilindungi oleh anoda menggunakan metode proteksi katodik arus terkesan. Perhatikan bagaimana sumber daya DC eksternal terlibat.
 
