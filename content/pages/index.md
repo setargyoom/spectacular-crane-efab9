@@ -2,19 +2,14 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Lindungi barang-barang Anda dari berbagai jenis korosi
     subtitle: >-
-      Stop switching between calendars and task lists!
+      Dapatkan informasi seputar korosi/karat pada situs ini!
     content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+      Situs ini menyajikan beberapa informasi seputar korosi/karat yang dapat Anda jadikan sebagai informasi tambahan. Mulai dari pengertian korosi, penyebab korosi, sampai pengendalian korosi. Semuanya bisa Anda dapatkan secara gratis! Selamat bereksplorasi :)
     actions:
-      - label: App Store
-        url: /pricing
-        style: primary
-      - label: Google Play
-        url: /pricing
+      - label: Eksplor Sekarang
+        url: /blog
         style: secondary
     image: images/bghost.png
     image_alt: image
@@ -25,16 +20,15 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What's Great About App Land?
+    title: Seputar Informasi Mengenai Korosi/Karat!
     subtitle: >-
-      In a Glance
+      Sekilas
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: Pengertian Korosi
         title_align: left
         content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+          Masih dalam tahap pengembangan, terima kasih.
         content_align: left
         actions:
           - label: Learn More
@@ -49,11 +43,10 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: On Any Device
+      - title: Penyebab Korosi
         title_align: left
         content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+          Masih dalam tahap pengembangan, terima kasih.
         content_align: left
         actions:
           - label: Learn More
@@ -68,11 +61,10 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: Smart Notifications
+      - title: Pengendalian Korosi
         title_align: left
         content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+          Masih dalam tahap pengembangan, terima kasih.
         content_align: left
         actions:
           - label: Learn More
@@ -96,11 +88,11 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Syncronized Calendar
+      - title: Lambang Korosi
         subtitle: >-
-          For true work-life balance
+          Menginformasikan bahwa zat tersebut bersifat korosif!
         content: >-
-          Stop juggling between calendar apps and productivity tools — from now on all your appointments and meetings appear in one place.
+          Zat-zat yang bersifat korosif umumnya terdapat lambang tersebut. Ketika kita akan menggunakan zat tersebut, usahakan selalu menggunakan alat pelindung yang sesuai intruksi. 
         actions:
           - label: Learn More
             url: /pricing
@@ -112,13 +104,11 @@ sections:
         image_alt: image
         media_position: left
         media_width: fifty
-      - title: Comprehensive Task List
+      - title: Peringatan terhadap zat yang bersifat korosif
         subtitle: >-
-          Always be in control
+          Usahakan selalu memperhatikan intruksi!
         content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+          Zat yang bersifat kotosif cukup berbahaya apabila mengenai suatu benda yang tidak tahan korosi. Selain itu juga berbahaya apabila mengenai kulit manusia secara langsung. Maka dari itu gunakanlah alat pelindung ketika berinteraksi dengan zat tersebut.
         actions:
           - label: Take a look
             url: /pricing
@@ -136,18 +126,17 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
+          “Korosi merupakan masalah yang seringkali menghantui para pemilik benda-benda yang terbuat dari logam. Logam termasuk material yang sangat rentan terserang oleh berbagai jenis korosi.”
         subtitle: >-
-          Alyvia Cope, Design at Company
+          Hantu Terbang, Pemilik benda logam yang terkena korosi
         image: images/bg-1.svg
         image_alt: image
         media_position: right
         media_width: thirty-three
       - title: >-
-          “A very useful project management app. I use it every day.”
+          “Ingat!!, Perlindungan terhadap benda-benda yang berbahan dasar logam terhadap korosi sangat penting dilakukan. Ada beragam cara yang dapat dilakukan untuk menanggulangi masalah korosi.”
         subtitle: >-
-          Travis Guidelines, Manager at Company
+          Hantu Senang, Sudah tahu mengatasi masalah korosi
         image: images/bg-2.svg
         image_alt: image
         media_position: left
@@ -155,15 +144,12 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
-    title: Regain Control of your To Dos
+    title: Dapatkan Informasi Seputar Korosi/Karat di Situs ini
     content: >-
-      Download App Land now and connect with all your calendars, project management tools and task lists — it doesn't get easier than this!
+      Eksplorasi sekarang juga apa yang ada di situs ini, jangan sampai terlewat. Kami harap Anda menyukainya. Semoga hari mu menyenangkan!
     actions:
-      - label: App Store
-        url: /pricing
-        style: primary
-      - label: Google Play
-        url: /pricing
+      - label: Eksplor Sekarang
+        url: /blog
         style: secondary
         has_icon: false
         icon: arrow-left
@@ -180,8 +166,8 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: blog_feed_section
-    title: Productivity Blog
-    subtitle: What's Up?
+    title: Blog
+    subtitle: Apa yang baru?
     actions:
       - label: View All
         url: /blog
