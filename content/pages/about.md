@@ -34,5 +34,4 @@ Situs ini membahas informasi seputar dunia perkaratan.
 
 Terima Kasih, 
 
-
 Salam Hangat
