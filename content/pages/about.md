@@ -30,8 +30,7 @@ layout: page
 ---
 
 Selamat Datang di Situs ini, 
+
 Situs ini membahas informasi seputar dunia perkaratan.
 
-Terima Kasih, 
-
-Salam Hangat
+Terima Kasih, Salam Hangat
