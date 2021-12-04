@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Disclaimer
 seo:
   title: Disclaimer
   description: This is the disclaimer page
