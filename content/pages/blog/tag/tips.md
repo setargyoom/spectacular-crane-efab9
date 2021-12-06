@@ -1,8 +1,8 @@
 ---
-title: Tips
+title: Proteksi Katodik
 sections:
   - type: hero_section
-    title: Tips
+    title: Proteksi Katodik
     align: center
     padding_top: medium
     padding_bottom: none
@@ -11,7 +11,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    tag: content/data/tags/tips.yaml
+    tag: content/data/tags/proteksi-katodik.yaml
     show_date: true
     show_categories: true
     show_author: false
@@ -42,14 +42,14 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Posts in Tips
+  title: Posts in Proteksi Katodik
   description: This is the tag archive page
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Posts in Tips
+      value: Posts in Proteksi Katodik
       keyName: property
     - name: og:description
       value: This is the tag archive page
@@ -61,7 +61,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Posts in Tips
+      value: Posts in Proteksi Katodik
     - name: twitter:description
       value: This is the tag archive page
     - name: twitter:image
