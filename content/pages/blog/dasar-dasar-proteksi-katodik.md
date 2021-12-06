@@ -48,8 +48,8 @@ Korosi adalah fenomena destruktif alami yang terjadi ketika beberapa logam terpa
 
 Agar korosi elektrokimia terjadi, tiga bahan harus ada: anoda, katoda, dan elektrolit. Anoda dan katoda biasanya dihubungkan melalui jalur listrik kontinu sementara keduanya direndam dalam elektrolit yang sama. Selama proses ini, anoda mengalami korosi, sedangkan katoda tetap tidak terpengaruh. 
 
-<img src="https://github.com/setargyoom/spectacular-crane-efab9/blob/163051872a1214533ea1faaee318f521295b6ccc/public/images/post%201/proteksi%20katodik-1.png" alt="img"/>
-     
+<img src="/images/post 1/proteksi katodik-1.png" align="center">
+
 Gambar Sebuah sel elektrokimia khas menunjukkan elektron mengalir dari anoda ke katoda melalui sambungan listrik. 
 
 Ada berbagai jenis metode untuk mencegah dan mengendalikan korosi. Salah satunya dikenal sebagai proteksi katodik. Teknik ini bekerja dengan cara menyambungkan logam yang akan dilindungi ke "logam korban" yang lebih mudah terkorosi. 
@@ -94,8 +94,8 @@ Dalam sistem proteksi katodik pasif, anoda korban dihubungkan langsung atau tida
 
 Jenis perlindungan ini umumnya digunakan dalam industri minyak dan gas untuk melindungi anggota baja struktural rig dan platform lepas pantai. Di sini, batang aluminium (atau logam lain yang sesuai) dipasang langsung pada bagian baja untuk berperan sebagai logam korban. Pemanas air baja, tangki, dan tiang pancang juga dilindungi secara katodik menggunakan metode serupa. 
 
-<img src="https://github.com/setargyoom/spectacular-crane-efab9/blob/163051872a1214533ea1faaee318f521295b6ccc/public/images/post%201/proteksi%20katodik-2.png" alt="img"/>
-    
+<img src="/images/post 1/proteksi katodik-2.png" align="center">
+
 Gambar skema pipa yang dilindungi oleh anoda korban menggunakan metode perlindungan katodik pasif. Perhatikan bagaimana tidak ada sumber daya eksternal yang terlibat.
 
 Contoh umum lain dari proteksi katodik pasif adalah baja galvanis yang dicelup panas. Selama proses ini, anggota atau struktur baja direndam dalam rendaman seng cair yang melapisi objek. Ketika baja dikeluarkan dari seng cair, ia bereaksi dengan udara dan uap air untuk membentuk lapisan pelindung yang dikenal sebagai seng karbonat, yang menciptakan sel galvanik dengan baja. 
@@ -109,8 +109,8 @@ Untuk mengatasi hal ini, sumber daya eksternal digunakan untuk membantu dalam me
 
 Flange pipa yang menghubungkan biasanya terisolasi menggunakan isolasi kit untuk memisahkan pipa menjadi lebih kecil, bagian yang lebih mudah dikelola untuk tujuan perlindungan proteksi katodik arus terkesan. 
 
-<img src="https://github.com/setargyoom/spectacular-crane-efab9/blob/163051872a1214533ea1faaee318f521295b6ccc/public/images/post%201/proteksi%20katodik-3.png" alt="img"/>
-    
+<img src="/images/post 1/proteksi katodik-3.png" align="center">
+
 Gambar skema objek yang dilindungi oleh anoda menggunakan metode proteksi katodik arus terkesan. Perhatikan bagaimana sumber daya DC eksternal terlibat.
 
 ## Keterbatasan Proteksi Katodik
