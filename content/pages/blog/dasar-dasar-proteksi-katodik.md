@@ -48,7 +48,7 @@ Korosi adalah fenomena destruktif alami yang terjadi ketika beberapa logam terpa
 
 Agar korosi elektrokimia terjadi, tiga bahan harus ada: anoda, katoda, dan elektrolit. Anoda dan katoda biasanya dihubungkan melalui jalur listrik kontinu sementara keduanya direndam dalam elektrolit yang sama. Selama proses ini, anoda mengalami korosi, sedangkan katoda tetap tidak terpengaruh. 
 
-<img src="/images/post 1/proteksi katodik-1.png" align="center">
+<img src="/images/post 1/proteksi-katodik-1.png" align="center">
 
 <div align="center"><i>Gambar Sebuah sel elektrokimia khas menunjukkan elektron mengalir dari anoda ke katoda melalui sambungan listrik.</i></div><br/>
 
@@ -94,7 +94,7 @@ Dalam sistem proteksi katodik pasif, anoda korban dihubungkan langsung atau tida
 
 Jenis perlindungan ini umumnya digunakan dalam industri minyak dan gas untuk melindungi anggota baja struktural rig dan platform lepas pantai. Di sini, batang aluminium (atau logam lain yang sesuai) dipasang langsung pada bagian baja untuk berperan sebagai logam korban. Pemanas air baja, tangki, dan tiang pancang juga dilindungi secara katodik menggunakan metode serupa. 
 
-<img src="/images/post 1/proteksi katodik-2.png" align="center">
+<img src="/images/post 1/proteksi-katodik-2.png" align="center">
 
 <div align="center"><i>Gambar skema pipa yang dilindungi oleh anoda korban menggunakan metode perlindungan katodik pasif. Perhatikan bagaimana tidak ada sumber daya eksternal yang terlibat.</i></div><br/>
 
@@ -110,7 +110,7 @@ Untuk mengatasi hal ini, sumber daya eksternal digunakan untuk membantu dalam me
 
 Flange pipa yang menghubungkan biasanya terisolasi menggunakan isolasi kit untuk memisahkan pipa menjadi lebih kecil, bagian yang lebih mudah dikelola untuk tujuan perlindungan proteksi katodik arus terkesan. 
 
-<img src="/images/post 1/proteksi katodik-3.png" align="center">
+<img src="/images/post 1/proteksi-katodik-3.png" align="center">
 
 <div align="center"><i>Gambar skema objek yang dilindungi oleh anoda menggunakan metode proteksi katodik arus terkesan. Perhatikan bagaimana sumber daya DC eksternal terlibat.</i></div><br/>
 
