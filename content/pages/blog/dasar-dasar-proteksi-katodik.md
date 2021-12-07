@@ -50,8 +50,7 @@ Agar korosi elektrokimia terjadi, tiga bahan harus ada: anoda, katoda, dan elekt
 
 <img src="/images/post 1/proteksi katodik-1.png" align="center">
 
-<div align="center"><i>Gambar Sebuah sel elektrokimia khas menunjukkan elektron mengalir dari anoda ke katoda melalui sambungan listrik.</i></div>
-
+<div align="center"><i>Gambar Sebuah sel elektrokimia khas menunjukkan elektron mengalir dari anoda ke katoda melalui sambungan listrik.</i></div><br/>
 
 Ada berbagai jenis metode untuk mencegah dan mengendalikan korosi. Salah satunya dikenal sebagai proteksi katodik. Teknik ini bekerja dengan cara menyambungkan logam yang akan dilindungi ke "logam korban" yang lebih mudah terkorosi. 
 
@@ -97,7 +96,7 @@ Jenis perlindungan ini umumnya digunakan dalam industri minyak dan gas untuk mel
 
 <img src="/images/post 1/proteksi katodik-2.png" align="center">
 
-<div align="center"><i>Gambar skema pipa yang dilindungi oleh anoda korban menggunakan metode perlindungan katodik pasif. Perhatikan bagaimana tidak ada sumber daya eksternal yang terlibat.</i></div>
+<div align="center"><i>Gambar skema pipa yang dilindungi oleh anoda korban menggunakan metode perlindungan katodik pasif. Perhatikan bagaimana tidak ada sumber daya eksternal yang terlibat.</i></div><br/>
 
 
 Contoh umum lain dari proteksi katodik pasif adalah baja galvanis yang dicelup panas. Selama proses ini, anggota atau struktur baja direndam dalam rendaman seng cair yang melapisi objek. Ketika baja dikeluarkan dari seng cair, ia bereaksi dengan udara dan uap air untuk membentuk lapisan pelindung yang dikenal sebagai seng karbonat, yang menciptakan sel galvanik dengan baja. 
@@ -113,7 +112,7 @@ Flange pipa yang menghubungkan biasanya terisolasi menggunakan isolasi kit untuk
 
 <img src="/images/post 1/proteksi katodik-3.png" align="center">
 
-<div align="center"><i>Gambar skema objek yang dilindungi oleh anoda menggunakan metode proteksi katodik arus terkesan. Perhatikan bagaimana sumber daya DC eksternal terlibat.</i></div>
+<div align="center"><i>Gambar skema objek yang dilindungi oleh anoda menggunakan metode proteksi katodik arus terkesan. Perhatikan bagaimana sumber daya DC eksternal terlibat.</i></div><br/>
 
 
 ## Keterbatasan Proteksi Katodik
