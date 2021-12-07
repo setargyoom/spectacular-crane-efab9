@@ -1,3 +1,49 @@
+---
+title: 5 Cara Mengatasi Korosi Galvanik
+subtitle: >-
+  
+date: 2021-12-02
+author: content/data/team/mas-degan.yaml
+categories:
+  - content/data/categories/pencegahan-korosi.yaml
+tags:
+  - content/data/tags/korosi-galvanik.yaml
+excerpt: >-
+  
+thumb_image: images/post 1/proteksi katodik.png
+thumb_image_alt: image
+image: images/post 1/proteksi katodik.png
+image_alt: image
+image_position: right
+seo:
+  title: 5 Cara Mengatasi Korosi Galvanik
+  description: cara mengatasi korosi galvanik 
+  extra:
+    - name: og:type
+      value: article
+      keyName: property
+    - name: og:title
+      value: 5 Cara Mengatasi Korosi Galvanik
+      keyName: property
+    - name: og:description
+      value: cara mengatasi korosi galvanik
+      keyName: property
+    - name: og:image
+      value: images/post-1.jpg
+      keyName: property
+      relativeUrl: true
+    - name: twitter:card
+      value: summary_large_image
+    - name: twitter:title
+      value: 5 Cara Mengatasi Korosi Galvanik
+    - name: twitter:description
+      value: cara mengatasi korosi galvanik
+    - name: twitter:image
+      value: images/post-1.jpg
+      relativeUrl: true
+layout: post
+---
+
 Korosi galvanik, disebut juga korosi bimetalik adalah proses elektrokimia yang terjadi ketika dua logam berbeda bersentuhan satu sama lain dengan adanya elektrolit. 
 
 Jenis korosi ini dicirikan oleh korosi yang dipercepat dari satu logam, sementara yang lain sebagian besar tetap tidak terpengaruh. Dengan kata lain, satu logam menjadi anoda dan terkorosi secara istimewa, sehingga mengorbankan dirinya sendiri sambil melindungi logam lainnya (katoda). 
