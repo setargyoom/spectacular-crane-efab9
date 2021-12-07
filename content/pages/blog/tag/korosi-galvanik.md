@@ -11,7 +11,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    tag: content/data/tags/proteksi-katodik.yaml
+    tag: content/data/tags/korosi-galvanik.yaml
     show_date: true
     show_categories: true
     show_author: false
