@@ -70,7 +70,7 @@ Salah satu cara paling efektif untuk memutus jalur listrik dalam sel elektrokimi
 Dalam praktiknya, insulasi biasanya dicapai dengan menggunakan bushing, ring, gasket, dan pelapis berbahan dasar polimer atau elastomer. Misalnya, dalam industri minyak dan gas, gasket epoksi yang diperkuat kaca non-konduktif, yang biasanya ditempatkan di antara flensa pipa penghubung untuk mengganggu konduktivitas listrik antara pipa yang berdekatan. 
 
 >
-Gambar Gasket isolasi yang ditempatkan di antara flensa pipa penghubung untuk bertindak sebagai isolator listrik
+<div align="center"><i>Gambar Gasket isolasi yang ditempatkan di antara flensa pipa penghubung untuk bertindak sebagai isolator listrik</i></div><br/>
 
 #### 2. Isolasi Elektrolit
 Salah satu elemen utama yang diperlukan agar korosi galvanik terjadi adalah elektrolit, yang mengandung ion-ion yang memfasilitasi reaksi oksidasi dan reduksi dalam sel galvanik. Oleh karena itu, langkah-langkah yang melibatkan isolasi logam kontak dan elektrolit terbukti efektif dalam mencegah korosi galvanik. 
