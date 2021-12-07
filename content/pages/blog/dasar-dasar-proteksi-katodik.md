@@ -1,7 +1,7 @@
 ---
 title: Dasar-Dasar Proteksi Katodik
 subtitle: >-
-  Memahami apa itu proteksi katodik dan penerapannya
+  
 date: 2021-12-01
 author: content/data/team/mas-degan.yaml
 categories:
@@ -9,7 +9,7 @@ categories:
 tags:
   - content/data/tags/proteksi-katodik.yaml
 excerpt: >-
-  Memahami apa itu proteksi katodik dan penerapannya
+  
 thumb_image: images/post 1/proteksi katodik.png
 thumb_image_alt: image
 image: images/post 1/proteksi katodik.png
