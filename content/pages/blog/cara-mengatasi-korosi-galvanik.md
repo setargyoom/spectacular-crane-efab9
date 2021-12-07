@@ -10,9 +10,9 @@ tags:
   - content/data/tags/korosi-galvanik.yaml
 excerpt: >-
   
-thumb_image: images/post 2/korosi galvanik.png
+thumb_image: images/post 2/korosi-galvanik.png
 thumb_image_alt: image
-image: images/post 2/korosi galvanik.png
+image: images/post 2/korosi-galvanik.png
 image_alt: image
 image_position: right
 seo:
