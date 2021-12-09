@@ -35,7 +35,7 @@ export default class MyDocument extends Document {
 
                   <meta name="google-site-verification" content="1s_3X1-Raz1NpxRLlEjjD2GD7ILOxS6QISH-iqDMaW4" />
 
-                
+                  <meta name="google-site-verification" content="L01OIytsAhxmhmWw85kLABjQSnZJAhLXGVCDkIcjoNk" />
 
                 </Head>
                 <body {...this.helmetBodyAttrComponents}>
