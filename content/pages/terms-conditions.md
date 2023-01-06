@@ -22,7 +22,7 @@ seo:
 layout: page
 ---
 
-Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang Ketentuan Layanan kami, jangan ragu untuk menghubungi kami melalui email di templategyoom@gmail.com
+Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang Ketentuan Layanan kami, jangan ragu untuk menghubungi kami melalui email di arifrozy25@gmail.com
 
 ### Pengantar
 Syarat dan ketentuan ini mengatur penggunaan Anda atas situs web ini, dengan menggunakan situs web ini, Anda menerima syarat dan ketentuan ini secara penuh dan tanpa syarat. Jika Anda tidak setuju dengan syarat dan ketentuan ini atau bagian dari syarat dan ketentuan ini, Anda tidak boleh menggunakan situs web ini.
