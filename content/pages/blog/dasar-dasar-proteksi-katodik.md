@@ -3,7 +3,7 @@ title: Dasar-Dasar Proteksi Katodik
 subtitle: >-
   
 date: 2021-12-01
-author: content/data/team/mas-degan.yaml
+author: content/data/team/arif-rozy.yaml
 categories:
   - content/data/categories/pencegahan-korosi.yaml
 tags:
