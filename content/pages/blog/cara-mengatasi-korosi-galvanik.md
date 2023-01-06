@@ -3,7 +3,7 @@ title: 5 Cara Mengatasi Korosi Galvanik
 subtitle: >-
   
 date: 2021-12-02
-author: content/data/team/mas-degan.yaml
+author: content/data/team/arif-rozy.yaml
 categories:
   - content/data/categories/pencegahan-korosi.yaml
 tags:
