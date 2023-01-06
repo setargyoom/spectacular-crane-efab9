@@ -22,4 +22,4 @@ seo:
 layout: page
 ---
 
-Untuk informasi lebih lanjut, Anda dapat menghubungi alamat email templategyoom@gmail.com
+Untuk informasi lebih lanjut, Anda dapat menghubungi alamat email arifrozy25@gmail.com
