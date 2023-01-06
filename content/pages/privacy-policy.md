@@ -43,7 +43,7 @@ Anda sebaiknya meninjau kembali kebijakan privasi dari masing-masing pihak ketig
 
 Jika anda ingin menonaktifkan cookie, anda dapat melakukannya melalui opsi pilihan pribadi di browser. Informasi lebih lanjut mengenai cookie manajemen dengan browser website tertentu dapat ditemukan di situs website masing-masing browser
 
-Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami melalui email di templategyoom@gmail.com
+Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami melalui email di arifrozy25@gmail.com
 
 ### Pernyataan
 1. Dengan mengakses website ini Anda dianggap telah mengerti dan menyetujui seluruh syarat dan kondisi (disclaimer) yang berlaku dalam penggunaan website ini, sebagaimana tercantum dibawah ini :
