@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Lindungi barang Anda dari berbagai jenis korosi
     subtitle: >-
-      Dapatkan informasi seputar korosi/karat pada situs ini!
+      Dapatkan informasi seputar korosi pada situs ini!
     content: >-
-      Situs ini menyajikan beberapa informasi seputar korosi/karat yang dapat Anda jadikan sebagai informasi tambahan. Mulai dari pengertian korosi, penyebab korosi, sampai pengendalian korosi. Semuanya bisa Anda dapatkan secara gratis! Selamat bereksplorasi :)
+      Situs ini menyajikan beberapa informasi seputar korosi yang dapat Anda jadikan sebagai informasi tambahan. Mulai dari pengertian korosi, penyebab korosi, sampai pengendalian korosi. Semuanya bisa Anda dapatkan secara gratis! Selamat bereksplorasi :)
     actions:
       - label: Eksplor Sekarang
         url: /blog
