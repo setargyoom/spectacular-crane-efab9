@@ -28,7 +28,7 @@ sections:
       - title: Pengertian Korosi
         title_align: left
         content: >-
-          Baca lebih lanjut!
+          Baca lebih lanjut!!
         content_align: left
         actions:
           - label: Learn More
@@ -46,7 +46,7 @@ sections:
       - title: Penyebab Korosi
         title_align: left
         content: >-
-          Baca lebih lanjut!
+          Baca lebih lanjut!!
         content_align: left
         actions:
           - label: Learn More
@@ -64,7 +64,7 @@ sections:
       - title: Pengendalian Korosi
         title_align: left
         content: >-
-          Baca lebih lanjut!
+          Baca lebih lanjut!!
         content_align: left
         actions:
           - label: Learn More
