@@ -93,7 +93,13 @@ sections:
           Menginformasikan bahwa zat tersebut bersifat korosif!
         content: >-
           Zat-zat yang bersifat korosif umumnya terdapat lambang tersebut. Ketika kita akan menggunakan zat tersebut, usahakan selalu menggunakan alat pelindung yang sesuai intruksi. 
-        
+        actions:
+          - label: Learn More
+            url: /
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
         image: images/cr-2.svg
         image_alt: image
         media_position: left
@@ -103,7 +109,13 @@ sections:
           Usahakan selalu memperhatikan intruksi!
         content: >-
           Zat yang bersifat korosif cukup berbahaya apabila mengenai suatu benda yang tidak tahan korosi. Selain itu juga berbahaya apabila mengenai kulit manusia secara langsung. Maka dari itu gunakanlah alat pelindung ketika berinteraksi dengan zat tersebut.
-        
+        actions:
+          - label: Learn More
+            url: /
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
         image: images/cr-1.svg
         image_alt: image
         media_position: right
