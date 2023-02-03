@@ -28,12 +28,12 @@ sections:
       - title: Pengertian Korosi
         title_align: left
         content: >-
-          
+          Baca lebih lanjut!
         content_align: left
         actions:
           - label: Learn More
             url: /pengertian-korosi
-            style: primary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
@@ -46,12 +46,12 @@ sections:
       - title: Penyebab Korosi
         title_align: left
         content: >-
-          
+          Baca lebih lanjut!
         content_align: left
         actions:
           - label: Learn More
             url: /penyebab-korosi
-            style: primary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
@@ -64,12 +64,12 @@ sections:
       - title: Pengendalian Korosi
         title_align: left
         content: >-
-          
+          Baca lebih lanjut!
         content_align: left
         actions:
           - label: Learn More
             url: /pengendalian-korosi
-            style: primary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
@@ -93,13 +93,7 @@ sections:
           Menginformasikan bahwa zat tersebut bersifat korosif!
         content: >-
           Zat-zat yang bersifat korosif umumnya terdapat lambang tersebut. Ketika kita akan menggunakan zat tersebut, usahakan selalu menggunakan alat pelindung yang sesuai intruksi. 
-        actions:
-          - label: Learn More
-            url: /
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        
         image: images/cr-2.svg
         image_alt: image
         media_position: left
@@ -109,13 +103,7 @@ sections:
           Usahakan selalu memperhatikan intruksi!
         content: >-
           Zat yang bersifat korosif cukup berbahaya apabila mengenai suatu benda yang tidak tahan korosi. Selain itu juga berbahaya apabila mengenai kulit manusia secara langsung. Maka dari itu gunakanlah alat pelindung ketika berinteraksi dengan zat tersebut.
-        actions:
-          - label: Learn More
-            url: /
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        
         image: images/cr-1.svg
         image_alt: image
         media_position: right
