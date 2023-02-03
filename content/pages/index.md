@@ -28,12 +28,12 @@ sections:
       - title: Pengertian Korosi
         title_align: left
         content: >-
-          Masih dalam tahap pengembangan, terima kasih.
+          
         content_align: left
         actions:
           - label: Learn More
-            url: /thank-you
-            style: link
+            url: /pengertian-korosi
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: center
@@ -46,12 +46,12 @@ sections:
       - title: Penyebab Korosi
         title_align: left
         content: >-
-          Masih dalam tahap pengembangan, terima kasih.
+          
         content_align: left
         actions:
           - label: Learn More
-            url: /thank-you
-            style: link
+            url: /penyebab-korosi
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: center
@@ -64,12 +64,12 @@ sections:
       - title: Pengendalian Korosi
         title_align: left
         content: >-
-          Masih dalam tahap pengembangan, terima kasih.
+          
         content_align: left
         actions:
           - label: Learn More
-            url: /thank-you
-            style: link
+            url: /pengendalian-korosi
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: center
@@ -95,7 +95,7 @@ sections:
           Zat-zat yang bersifat korosif umumnya terdapat lambang tersebut. Ketika kita akan menggunakan zat tersebut, usahakan selalu menggunakan alat pelindung yang sesuai intruksi. 
         actions:
           - label: Learn More
-            url: /thank-you
+            url: /
             style: primary
             has_icon: true
             icon: arrow-right
@@ -111,7 +111,7 @@ sections:
           Zat yang bersifat korosif cukup berbahaya apabila mengenai suatu benda yang tidak tahan korosi. Selain itu juga berbahaya apabila mengenai kulit manusia secara langsung. Maka dari itu gunakanlah alat pelindung ketika berinteraksi dengan zat tersebut.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: /
             style: secondary
             has_icon: true
             icon: arrow-right
