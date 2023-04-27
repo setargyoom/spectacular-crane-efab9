@@ -132,7 +132,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
-    title: Dapatkan Informasi Seputar Korosi/Karat di Situs ini
+    title: Dapatkan Informasi Seputar Korosi di Situs ini
     content: >-
       Eksplorasi sekarang juga apa yang ada di situs ini, jangan sampai terlewat. Kami harap Anda menyukainya. Semoga hari mu menyenangkan!
     actions:
