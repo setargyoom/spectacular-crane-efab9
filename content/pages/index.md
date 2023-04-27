@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Seputar Informasi Mengenai Korosi/Karat!
+    title: Seputar Informasi Mengenai Korosi
     subtitle: >-
       Sekilas
     align: center
